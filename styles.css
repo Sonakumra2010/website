@@ -1,0 +1,84 @@
+nav {
+    background-color: #333;
+    overflow: hidden;
+}
+
+nav a {
+    float: right;
+    color: white;
+    text-align: center;
+    padding: 20px 16px;
+    text-decoration: none;
+    display: block;
+}
+nav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+.brand-name {
+    background-image: url("images/man-intense-workout.webp");
+    height: 500px;
+    padding-top: 200px;
+    text-shadow: 5px 5px 5px black;
+    
+}
+
+.div-title {
+    padding-top: 0px;
+}
+
+h1 {
+font-family: 'Abril Fatface';
+font-size: 50px;
+color: white;
+text-align: center;
+text-shadow: 5px 5px 5px black;
+    
+
+}
+.description{
+    text-align: center;
+    font-family: "Sofia", sans-serif;
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+}
+#desc-shop{
+
+}
+#desc-supplements{
+
+}
+#gym-wear{
+    width: 450px;
+    padding-bottom: 20px;
+}
+
+
+.div-item{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color:gray;
+    border: 5px solid whitesmoke;
+}
+#title-workout{
+
+}
+#shoping {
+
+    
+    background-color: aquamarine;
+}
+#diet-counselling{
+    background-color: lightgoldenrodyellow;
+}
+#workout{
+    background-color: aqua;
+}
+img{
+    width: 350px;
+    height: 300px;
+    padding-top: 20px;
+    margin-right: 20px;
+}
